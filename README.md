@@ -1,1 +1,1 @@
-### Hi 👋 Ask me about Kubernetes and Cloud Computing
+### Ask me about Kubernetes and Cloud Computing 👋
