@@ -17,7 +17,7 @@
 
 
 - Using PowerShell to Deploy Equinix Metal Devices  
-- pgEdge
+- Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)
 
 ### Linkedin
 
