@@ -10,7 +10,7 @@
 
 
 - [What is Kubernetes?](https://www.youtube.com/watch?v=87FJQPorviM)
-- [How Submarine Cables Connecrt The Internet?](https://www.youtube.com/watch?v=pCiFMqpHR30)
+- [How Submarine Cables Connect The Internet](https://www.youtube.com/watch?v=pCiFMqpHR30)
 
 
 ### How-to guides
