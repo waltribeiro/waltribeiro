@@ -1,4 +1,4 @@
-# Ask me about Equinix Metal and Kubernetes
+# Ask me about Cloud Computing and Kubernetes
 
 
 <a href="https://www.credly.com/badges/fcf5357d-d219-48d1-9bb9-3c18e70ccfcb"><img width="1143" alt="image-kcna-01" src="https://github.com/user-attachments/assets/42633b76-62ad-49b8-8e72-1bc465f77ebb"></a>
@@ -16,8 +16,8 @@
 ### How-to guides
 
 
-- Using PowerShell to Deploy Equinix Metal Devices  
-- Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)
+- [Using PowerShell to Deploy Equinix Metal Devices](https://github.com/waltribeiro/using-powershell-to-deploy-equinix-metal-devices/blob/main/markdown-02.md)
+- [Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md)
 
 ### Linkedin
 
