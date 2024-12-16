@@ -14,12 +14,14 @@
 ### Video Examples
 
 - [What is Kubernetes?](https://www.youtube.com/watch?v=87FJQPorviM)
+
 - [How Submarine Cables Connect The Internet](https://www.youtube.com/watch?v=pCiFMqpHR30)
 
 
 ### How-to guides
 
 - [Using PowerShell to Deploy Equinix Metal Devices](https://github.com/waltribeiro/using-powershell-to-deploy-equinix-metal-devices/blob/main/markdown-02.md)
+
 - [Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md)
 
 ### Linkedin
