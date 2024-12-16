@@ -7,8 +7,11 @@
 
 ### Github Examples
 
-- docs: added a note in step 2 of Smoke Ping to wait up to 4 minutes for application to install #7 [link](https://github.com/equinix-labs/intro-to-metal-workshop/pull/7)
-- chore: converted wordle app into wordpress app #6 [https://github.com/equinix-labs/intro-to-metal-workshop/pull/6](https://github.com/equinix-labs/intro-to-metal-workshop/pull/6)
+- docs: added a note in step 2 of Smoke Ping to wait up to 4 minutes for application to install #7
+[https://github.com/equinix-labs/intro-to-metal-workshop/pull/7](https://github.com/equinix-labs/intro-to-metal-workshop/pull/7)
+
+- chore: converted wordle app into wordpress app #6
+[https://github.com/equinix-labs/intro-to-metal-workshop/pull/6](https://github.com/equinix-labs/intro-to-metal-workshop/pull/6)
 
 ### Video Examples
 
