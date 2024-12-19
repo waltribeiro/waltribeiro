@@ -28,7 +28,7 @@ I help create video and written how-to guides, product demos, and reference mate
 
 - [Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md)
 
-- [Created Vultr Creator program for Developer Relations](https://vultr.com/creator)
+- [Created Vultr Creator program for Developer Relations guides](https://vultr.com/creator)
 
 ### Linkedin
 
