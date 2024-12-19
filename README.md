@@ -5,11 +5,28 @@
 
 <!-- <a href="https://www.credly.com/badges/fcf5357d-d219-48d1-9bb9-3c18e70ccfcb"><img width="1143" alt="image-kcna-01" src="https://github.com/user-attachments/assets/fd2ea1fd-299f-4b16-8d78-225f6500eab4"></a> -->
 
+### About Me
+I help create video and written how-to guides, product demos, and reference materials. Having worked Youtube LA, I understand online content, video production, and am excited to bring that energy to growing DevRel communities to meetups and events.
+
+
+### Vultr
+Worked with Engineering to assist with their Managed Kubernetes Engine.
+
+
+### Linode
+Co-strategized the GTM messaging from scratch, leading into the Akamai acquisition.
+
+
+### Equinix
+Assisted our products team which led to NBC News Miami featuring Equinix to the Olympics 2024 audience viewers.
+
+
 ### Github Examples
 
 - [docs: added a note in step 2 of Smoke Ping to wait up to 4 minutes for application to install #7](https://github.com/equinix-labs/intro-to-metal-workshop/pull/7)
 
 - [chore: converted wordle app into wordpress app #6](https://github.com/equinix-labs/intro-to-metal-workshop/pull/6)
+
 
 ### Video Examples
 
