@@ -14,8 +14,6 @@ I help create video and written how-to guides, product demos, and reference mate
 
 - [chore: converted wordle app into wordpress app #6](https://github.com/equinix-labs/intro-to-metal-workshop/pull/6)
 
-- [Created Vultr Creator program for Developer Relations](https://vultr.com/creator)
-
 ### Video Examples
 
 - [What is Kubernetes?](https://www.youtube.com/watch?v=87FJQPorviM)
@@ -29,6 +27,8 @@ I help create video and written how-to guides, product demos, and reference mate
 - [Using PowerShell to Deploy Equinix Metal Devices](https://github.com/waltribeiro/using-powershell-to-deploy-equinix-metal-devices/blob/main/markdown-02.md)
 
 - [Use pgEdge To Build A 3-Node Cluster Distributed Database on Metal (with DEMO)](https://github.com/waltribeiro/getting-started-with-pgedge-distributed-database-on-equinix-metal/blob/main/markdown.md)
+
+- [Created Vultr Creator program for Developer Relations](https://vultr.com/creator)
 
 ### Linkedin
 
