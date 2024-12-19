@@ -8,18 +8,11 @@
 ### About Me
 I help create video and written how-to guides, product demos, and reference materials. Having worked Youtube LA, I understand online content, video production, and am excited to bring that energy to growing DevRel communities to meetups and events.
 
+Vultr - Linode
 
-### Vultr
-Worked with Engineering to assist with their Managed Kubernetes Engine.
-
-
-### Linode
-Co-strategized the GTM messaging from scratch, leading into the Akamai acquisition.
-
-
-### Equinix
-Assisted our products team which led to NBC News Miami featuring Equinix to the Olympics 2024 audience viewers.
-
+Equinix
+Internet subsea cables are managed from this building in Miami
+https://www.nbcmiami.com/news/local/nap-of-the-americas-internet-subsea-cables/3399049/
 
 ### Github Examples
 
