@@ -8,18 +8,13 @@
 ### About Me
 I help create video and written how-to guides, product demos, and reference materials. Having worked Youtube LA, I understand online content, video production, and am excited to bring that energy to growing DevRel communities to meetups and events.
 
-Vultr - Linode
-
-Equinix
-Internet subsea cables are managed from this building in Miami
-https://www.nbcmiami.com/news/local/nap-of-the-americas-internet-subsea-cables/3399049/
-
 ### Github Examples
 
 - [docs: added a note in step 2 of Smoke Ping to wait up to 4 minutes for application to install #7](https://github.com/equinix-labs/intro-to-metal-workshop/pull/7)
 
 - [chore: converted wordle app into wordpress app #6](https://github.com/equinix-labs/intro-to-metal-workshop/pull/6)
 
+- [Created Vultr Creator program for Developer Relations](https://vultr.com/creator)
 
 ### Video Examples
 
@@ -27,6 +22,7 @@ https://www.nbcmiami.com/news/local/nap-of-the-americas-internet-subsea-cables/3
 
 - [How Submarine Cables Connect The Internet](https://www.youtube.com/watch?v=pCiFMqpHR30)
 
+- [NBC News Miami featured my Equinix video about data centers for 2024 Olympics](https://www.nbcmiami.com/news/local/nap-of-the-americas-internet-subsea-cables/3399049/)
 
 ### How-to guides
 
