@@ -6,7 +6,7 @@
 <!-- <a href="https://www.credly.com/badges/fcf5357d-d219-48d1-9bb9-3c18e70ccfcb"><img width="1143" alt="image-kcna-01" src="https://github.com/user-attachments/assets/fd2ea1fd-299f-4b16-8d78-225f6500eab4"></a> -->
 
 ### About Me
-I help create video and written how-to guides, product demos, and reference materials. Having worked Youtube LA, I understand online content, video production, and am excited to bring that energy to growing DevRel communities to meetups and events.
+I help create video and written how-to guides, product demos, and reference materials. Having worked as a project manager, an API markeplace, and in cloud computing - I understand online content, video production, and am excited to bring that energy to growing DevRel communities, meetups, and events.
 
 ### Github Examples
 
